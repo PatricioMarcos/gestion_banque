@@ -1,0 +1,11 @@
+<?php
+    require_once(ROUTE_DIR."lib/session.php");
+    require(ROUTE_DIR."lib/validator.php");
+    require(ROUTE_DIR."models/compte.php");
+    require(ROUTE_DIR."models/database.php");
+    require(ROUTE_DIR."models/user.php");
+    require(ROUTE_DIR."models/client.php");
+    require(ROUTE_DIR."models/gestionaire.php");
+    require(ROUTE_DIR."models/transaction.php");
+    require(ROUTE_DIR."models/transactionCompte.php");
+?>

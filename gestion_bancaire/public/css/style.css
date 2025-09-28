@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box; 
+}
+.form-register{
+    color: white;
+    width: 400px;
+    background-color: #24303c;
+    padding:30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    box-shadow: 7px 13px 37px #000;
+}
+
+.in{
+    width: 100%;
+    color: white;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    border: 1px solid #1f53c5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.button{
+    width: 100%;
+    background: #24303c;
+    padding: 12px;
+    margin:16px 0;
+    border:none;
+    border-radius: 20px;
+    color: white;
+    background:  #1f53c5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.button3{
+    width: 10%;
+    background: #24303c;
+    padding: 12px;
+    margin:16px 0;
+    border:none;
+    border-radius: 20px;
+    color: white;
+    background:  #1f53c5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.text{
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+   font-weight: bolder;
+}
+.bouton{
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 10px;
+}
+.bouton2{
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px;
+}
+.center{
+    align-items: center;
+}

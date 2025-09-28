@@ -1,0 +1,35 @@
+html{
+    background-image: url(../images/5e821737690e329bedd7312b_-main-How-financial-institutions-can-reduce-customer-service-costs-using-chatbots.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    background-image: url(..//images/fondo-azul.jpg);
+    display: flex;
+    padding: 1%;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.menus {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+nav {
+    width: 20%;
+    margin-right: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+nav a{
+    margin: 30px;
+}
+
